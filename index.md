@@ -4,7 +4,7 @@ This is my home page! My name is Nicklaus Marietta and I am a student at [Cal St
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/nickmarietta.
+My GitHub page is [nickmarietta](http://github.com/nickmarietta).
 
 ### CPSC 120
 
@@ -28,5 +28,5 @@ My GitHub page is http://github.com/nickmarietta.
     Lab 12, part 1 was my all-time favorite because of the image it created. 
     When first getting into programming, I thought that it was only used for 
     things such as webpages or games. This program made me realize the true 
-    reaches that coding can be applied to. Not only did this program help me 
-    realize that, but also how classes work.
+    reaches that coding can be applied to which I really enjoyed. Not only 
+    did this program help me realize that, but also how classes work.
